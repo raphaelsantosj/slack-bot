@@ -5,7 +5,7 @@ var controller = Botkit.slackbot({
 });
 
 var bot = controller.spawn({
-    token: 'xoxb-346090503860-6302CCargJU5fHBvQTtgZShy'
+    token: ''
 }).startRTM();
 
 
